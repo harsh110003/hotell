@@ -83,5 +83,5 @@ router.delete('/:id', async(req,res) => {
     }
 })
 
-//hii welcome to personRoute
+//hii welcome to personRoute of hotel
 module.exports = router
